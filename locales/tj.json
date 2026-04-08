@@ -92,6 +92,16 @@
         "github": "https://github.com/MgShakhzod/TrasherBot",
         "year": "2025",
         "featured": true
+      },
+      {
+        "title": "Medical base system - Desktop Application",
+        "desc": "Барномаи мизи корӣ барои муассисаҳои тиббӣ, ки барои автоматикунонии раванди бақайдгирӣ ва нигоҳубини беморон тарҳрезӣ шудааст. Система ҷараёнҳои кориро оптимизатсия мекунад, вақти интизориро кам мекунад ва бори кормандони маъмуриро сабук мекунад.",
+        "thumb": "./projects/project2.png",
+        "tags": ["Python", "tkinter", "SQLite3", "GIU"],
+        "demo": "https://github.com/MgShakhzod/Medical_system_base",
+        "github": "https://github.com/MgShakhzod/Medical_system_base",
+        "year": "2026",
+        "featured": true
       }
     ]
   },
